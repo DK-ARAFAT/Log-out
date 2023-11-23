@@ -263,7 +263,7 @@ def meyexudi():
   id = "-".join(uuid)
   try:
    httpCaht = requests.get('https://github.com/DK-ARAFAT/Broken/blob/main/Approval.txt').text
-    if id in httpCaht:
+httpCaht:
       print(fuckyoursali)
       print(hedaborakarent)
       msg = str(os.geteuid())
